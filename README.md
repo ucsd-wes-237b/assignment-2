@@ -1,5 +1,7 @@
 # Assignment 2 (assigned 7/26, due 8/10)
 
+This assignment will be using the ARM CPU in your RB3.
+
 ## Lab
 
 ### Loop Demo
