@@ -171,3 +171,5 @@ $RECYCLE.BIN/
 
 solution
 output.raw
+!lab/Dataset/**/output.raw
+!homework/Dataset/**/output.raw
